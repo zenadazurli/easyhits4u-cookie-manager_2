@@ -1,1 +1,1 @@
-# easyhits4u-cookie-manager_2
+# easyhits4u-cookie-manager
