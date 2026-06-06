@@ -6,7 +6,7 @@ from playwright.async_api import async_playwright
 from datetime import datetime
 
 # NUOVA API KEY
-API_KEY = os.environ.get("BROWSER_USE_API_KEY", "bu_p13_SIvj0Y2JtzsA7fyZZ72xwlmmNMixXMyYft1ZA5s")
+API_KEY = os.environ.get("BROWSER_USE_API_KEY", "bu_C1iVNyLBTsi0nBRFgaI5DBm4Gfe_mZoKfQlSJztf-es")
 
 # Credenziali EasyHits4U
 EMAIL = "sandrominori50+ulugarecexisa@gmail.com"
